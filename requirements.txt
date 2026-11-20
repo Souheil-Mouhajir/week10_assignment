@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+statsmodels
+altair>=5.4
+vl-convert-python
+plotly>=6
+jupyter
